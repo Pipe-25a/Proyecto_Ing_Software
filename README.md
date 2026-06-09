@@ -7,19 +7,20 @@ Integrantes del Equipo:
 -Felipe Droguett
 -Ezequiel Diaz
 ###
-
 ###
 Descripcion del proyecto 
 
 ###
-
 ###
 Instalacion
-###
 
+###
 ###
 Tecnologias usadas
 -
 -
+-
+
+###
 -
 ##
