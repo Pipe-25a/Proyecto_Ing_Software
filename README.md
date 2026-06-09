@@ -9,7 +9,8 @@ Integrantes del Equipo:
 ###
 ###
 Descripcion del proyecto 
-  Sistema de gestion para la bibliteca unilib, busca principalmente mejorar la experiencia de los usuarios
+  Sistema de gestion para la bibliteca UNILIB, Busca principalmente mejorar la experiencia de los usuarios.
+  se utiliza java para el backend y una base de datos en SQL.
 ###
 ###
 Tecnologias usadas
