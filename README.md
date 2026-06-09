@@ -12,7 +12,7 @@ Descripcion del proyecto
 ###
 ###
 Tecnologias usadas
--
+- Java
 -
 -
 ####
