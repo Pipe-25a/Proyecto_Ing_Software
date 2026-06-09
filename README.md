@@ -1,2 +1,25 @@
 # Proyecto_Ing_Software
-Ingeniar de software 2026
+Ingeneria de software 2026
+
+###
+Integrantes del Equipo:
+-Felipe Pérez
+-Felipe Droguett
+-Ezequiel Diaz
+###
+
+###
+Descripcion del proyecto 
+
+###
+
+###
+Instalacion
+###
+
+###
+Tecnologias usadas
+-
+-
+-
+##
