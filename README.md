@@ -9,18 +9,13 @@ Integrantes del Equipo:
 ###
 ###
 Descripcion del proyecto 
-
-###
-###
-Instalacion
-
 ###
 ###
 Tecnologias usadas
 -
 -
 -
-
+####
 ###
 -
 ##
