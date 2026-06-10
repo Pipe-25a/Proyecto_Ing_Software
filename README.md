@@ -1,8 +1,8 @@
-# Proyecto_Ing_Software
+# Grupo 10 Proyecto Biblioteca UNILIB
 Ingeneria de software 2026
 
 ###
-Integrantes del Equipo:
+Integrantes del Grupo 10:
 -Felipe Pérez
 -Felipe Droguett
 -Ezequiel Diaz
