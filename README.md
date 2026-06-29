@@ -17,3 +17,7 @@ Tecnologias usadas
 - Java
 - SQL
 ###
+Enlace del prototipo de la Biblioteca UNILIB:
+
+https://www.figma.com/make/U3f00sG7eCBLyHEpcCShas/Proyecto-Biblioteca-UNILIB?code-node-id=0-9&p=f&t=F5uTDmrfRgYXWjsL-0&fullscreen=1
+###
